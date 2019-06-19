@@ -1,6 +1,6 @@
 token= NTkwOTE5MjA2ODk2MjcxMzk3.XQqD5Q.VSSh5JbKROC53Nf7afn50LsoxXg
 owner= 390251443933675522   
 prefix= d
-game= Type|Dplay
+game= Type | Dplay
 stayinchannel=true 
 songinstatus=false 
