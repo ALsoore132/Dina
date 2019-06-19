@@ -1,5 +1,5 @@
 token= NTkwOTE5MjA2ODk2MjcxMzk3.XQqD5Q.VSSh5JbKROC53Nf7afn50LsoxXg
-owner= 590919206896271397   
+owner= 320189318868238347   
 prefix= d
 game= Type | Dplay
 stayinchannel=true 
